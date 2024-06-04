@@ -1,0 +1,3 @@
+packages:
+  - with-react-19
+  - without-react-19
